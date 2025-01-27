@@ -1,14 +1,11 @@
 {
-  "name": "heart",
+  "name": "heart_rate",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon api/index.js"
   },
-  "keywords": [
-    "eslam"
-  ],
   "author": "",
   "license": "ISC",
   "description": "",
