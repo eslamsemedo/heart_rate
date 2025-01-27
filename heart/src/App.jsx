@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p class="text-blue-600 dark:text-sky-400">The quick brown fox...</p>
+      <p class="text-red-600 dark:text-red-400">The quick brown fox...</p>
     </>
   )
 }
